@@ -1,0 +1,10 @@
+# Project place file
+/FnW_System.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+sourcemap.json
+selene.toml
+wally.lock
